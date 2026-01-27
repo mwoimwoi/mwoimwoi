@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mei!
 
-I am a **First Class Honours Computer Science graduate** from **Newcastle University UK**. My passion lies at the intersection of technical engineering and creative design, specializing in **Front-End Development** and **UX/UI design**.
+I am a **First Class Honours Computer Science graduate** from **Newcastle University UK**. I'm a passionate developer with an interest in design and I specialise in **Front-End Development** and **UX/UI**.
 
-I love the challenge of coding complex systems while maintaining a creative edge—whether I’m building interactive web applications or designing physical merchandise for international conventions.
 
 ---
 
@@ -17,13 +16,11 @@ I am currently collaborating with my peers to develop an interactive **Visual No
 
 ### Development
 
-* **Front-End:** React, HTML & CSS, JavaScript 
+* **Languages:** JavaScript, Python, Java, C#, HTML, CSS, SQL
 
+* **Frameworks:** React, Node.js, Flask
 
-* **Back-End:** Node.js, Flask, MySQL, RESTful APIs 
-
-
-* **Languages:** Python, Java, C# 
+* **Cloud:** Firebase, Supabase, MongoDB
 
 
 ### Creative & Design
