@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Mei!
+# Hi, I'm Mei!
 
 I am a **First Class Honours Computer Science graduate** from **Newcastle University UK**. I'm a passionate developer with an interest in design and I specialise in **Front-End Development** and **UX/UI**.
 
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 I am currently collaborating with my peers to develop an interactive **Visual Novel** using **Python**.
 
 
 ---
 
-## 🛠 Technical Toolkit
+## Technical Toolkit
 
 ### Development
 
@@ -34,11 +34,11 @@ I am currently collaborating with my peers to develop an interactive **Visual No
 
 ---
 
-## 🎨 Creative Entrepreneurship
+## Creative Entrepreneurship
 
 Outside of traditional software development, I am an **Independent Artist and Small Business Owner**.
 
-* **Event Management:** Successfully managed retail booths at **9 international conventions** (including Comic Fiesta) across 3 countries.
+* **Event Management:** Successfully managed retail booths at **9 international conventions** across 3 countries.
 
 
 * **Product Lifecycle:** Directed the full lifecycle of original merchandise, from digital design to manufacturing and international logistics.
@@ -50,7 +50,7 @@ Outside of traditional software development, I am an **Independent Artist and Sm
 
 ---
 
-## 🎓 Education & Experience
+## Education & Experience
 
 * **BSc Computer Science (First Class Honours)** – Newcastle University UK.
 
@@ -61,7 +61,7 @@ Outside of traditional software development, I am an **Independent Artist and Sm
 
 ---
 
-## 📫 Let's Connect!
+## Contact
 
 * **Email:** [huimeichia04@gmail.com](mailto:huimeichia04@gmail.com) 
 
