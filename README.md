@@ -66,7 +66,10 @@ Outside of traditional software development, I am an **Independent Artist and Sm
 * **Email:** [huimeichia04@gmail.com](mailto:huimeichia04@gmail.com) 
 
 
-* **LinkedIn:** [linkedin.com/in/hui-mei-chia/](https://www.google.com/search?q=https://www.linkedin.com/in/hui-mei-chia/) 
+* **LinkedIn:** [linkedin.com/in/hui-mei-chia/](https://www.linkedin.com/in/hui-mei-chia/)
+
+
+* **Art Portfolio:** [https://huimeichia.portfoliobox.net/](https://huimeichia.portfoliobox.net/)
 
 
 * **Languages:** English (Fluent), Cantonese, Mandarin (Conversational) and French (Learning).
